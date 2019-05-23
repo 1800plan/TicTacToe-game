@@ -1,7 +1,7 @@
 # tictactoe
 Tic tac toe -game for android
 
-![Screenshot_1558271921](https://user-images.githubusercontent.com/50943581/58240510-cd33ea80-7d53-11e9-922e-4db0ba635aee.png)
+![tictactoe_screenshot_collection_small](https://user-images.githubusercontent.com/50943581/58241224-349e6a00-7d55-11e9-80e8-8bbf7f25ec17.png)
 
 - Two player game: "X" for Player 1 and "O" for Player 2
 - Play background music by clicking "Music"
