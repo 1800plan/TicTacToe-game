@@ -1,4 +1,4 @@
-# kokeiluristinolla
+# tictactoe
 Tic tac toe -game for android
 
 - Two player game: "X" for Player 1 and "O" for Player 2
