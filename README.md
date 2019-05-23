@@ -7,7 +7,7 @@ Tic tac toe -game for android
 - Play background music by clicking "Music"
 - Change background color by clicking Player 1 or Player 2 textfields
 
-I followed android tutorial from youtube (thanks "Coding In Flow"!).
+I followed android tutorial from youtube (thanks "Coding In Flow"!) and practised coding by adding small changes.
 
 TODO:
 - add an option to play against the system
