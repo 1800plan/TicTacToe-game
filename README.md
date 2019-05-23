@@ -6,6 +6,7 @@ Tic tac toe -game for android
 - Two player game: "X" for Player 1 and "O" for Player 2
 - Play background music by clicking "Music"
 - Change background color by clicking Player 1 or Player 2 textfields
+- Reset changes and score by clicking "Reset"
 
 I followed android tutorial from youtube (thanks "Coding In Flow"!) and practised coding by adding small changes.
 
